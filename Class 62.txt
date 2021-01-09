@@ -1,0 +1,9 @@
+Class62 Refer the below link for installation of NODE:
+
+https://nodejs.org/en/io
+
+After this follow steps of documentation.
+
+To check   npm install expo-cli --global is installed properly or not.Refer below link:
+
+expo-cli --version

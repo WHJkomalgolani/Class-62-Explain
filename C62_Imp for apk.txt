@@ -1,0 +1,13 @@
+npm install
+If node modules folder is present that means npm is already installed.Then no need for npm install.
+
+For apk generation run following command
+expo build:android -t apk
+
+apk generation will take time. 
+10-20 minutes 
+It will generate artificats link on cmd.
+By opening this link in web browser 
+download the apk file.
+Transfer it to phone via mail and install it.
+
